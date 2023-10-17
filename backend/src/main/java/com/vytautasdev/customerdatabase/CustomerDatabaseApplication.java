@@ -20,6 +20,7 @@ Program flow: The controller class sends data down to the service class -> Servi
 
     public static void main(String[] args) {
         SpringApplication.run(CustomerDatabaseApplication.class, args);
+
     }
 
     @Bean
